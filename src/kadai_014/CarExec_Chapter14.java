@@ -4,9 +4,10 @@ public class CarExec_Chapter14 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-       Car_Chapter14 Car = new Car_Chapter14(1, 10);
+       Car_Chapter14 Car = new Car_Chapter14();
        
-       Car.gearChange(3);
+       Car.gearChange(2);
+       Car.run(2);
 	}
 
 }
