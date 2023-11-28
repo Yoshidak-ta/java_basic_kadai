@@ -2,8 +2,8 @@ package kadai_014;
 
 public class Car_Chapter14 {
 //	 フィールド
-	  private int gear = 0; 
-	  private int speed = 0;
+	  private int gear = 1; 
+	  private int speed = 10;
 	  
 // コントラクタ
    public Car_Chapter14(int gear, int speed) {
