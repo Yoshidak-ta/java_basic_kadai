@@ -1,8 +1,8 @@
 package kadai_017;
 
 public class KatoIchiro_Chapter17 extends Kato_Chapter17 {
-	public void setGivenName(String givenName) {
-	      this.givenName = givenName;
+	public void setGivenName() {
+	      this.givenName = "一郎";
 
 		 }
 	public void eachIntroduce() {
