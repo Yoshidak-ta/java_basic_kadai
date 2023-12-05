@@ -18,7 +18,7 @@ public class Car_Chapter14 {
 	  case 5 -> 50;
 	  default -> 10;
 	  };
-       }
+     }
    
    
    public void run() {
